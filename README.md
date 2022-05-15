@@ -1,5 +1,5 @@
-## Notion_SDK
-Notion_SDK is pythonic interface to use [Notion Beta API](https://developers.notion.com/reference/intro).
+## Notion-SDK
+Notion-SDK is pythonic interface to use [Notion Beta API](https://developers.notion.com/reference/intro).
 
 ###  Getting Started
 
